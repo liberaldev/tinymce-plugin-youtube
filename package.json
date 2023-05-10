@@ -4,7 +4,8 @@
   "description": "Plugin youtube for TinyMCE 5",
   "main": "youtube.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp"
   },
   "repository": {
     "type": "git",
